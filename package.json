@@ -1,0 +1,29 @@
+{
+  "name": "nodebb-plugin-cashstore",
+  "version": "0.0.1",
+  "description": "Item store for NodeBB Cash MOD",
+  "main": "main.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/peterhughesdev/nodebb-plugin-cashstore"
+    },
+  "keywords": [
+      "nodebb",
+      "plugin",
+      "cash",
+      "points",
+      "posting"
+    ],
+  "author": {
+      "name": "Peter Hughes"
+    },
+  "nbbpm": {
+      "compatibility": "^0.6.0"
+    },
+  "license": "BSD-2-Clause",
+  },
+  "readmeFilename": "README.md"
+ }
